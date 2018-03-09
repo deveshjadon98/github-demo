@@ -8,7 +8,7 @@ let data = [
  		"value":4
 	},
 	{
- 		"id":"",
+ 		"id":"toppings",
  		"value":2
 	}
 ]
